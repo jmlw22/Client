@@ -1,0 +1,6 @@
+g++ -o s main.cpp main.h file.cpp client.cpp cjson.cpp libjson.a
+
+./s
+
+
+
